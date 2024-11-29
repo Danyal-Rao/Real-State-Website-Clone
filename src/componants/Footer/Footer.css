@@ -1,0 +1,15 @@
+.f-container {
+  display: flex;
+  row-gap: 2rem;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.f-left {
+  gap: 1rem;
+}
+.f-menue {
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  font-weight: 500;
+}
